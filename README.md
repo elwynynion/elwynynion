@@ -7,7 +7,7 @@ I’m a fullstack web developer, designer and moderator, and currently graduatin
 I’m Elwyn Ynion, a full-stack Web Developer and UI/UX Designer, and I enjoy learning new skills as time goes on. I am keen on using my different experiences to solve complex issues and design engaging experiences. I honed my skills in product design, technical writing, web programming, and app development. I build a website with HTML, CSS, PHP and JavaScript and design using Bootstrap, Bulma and Tailwind and now I build a website using NextJS. When I’m not coding, I’m playing online games or doing some personal stuff.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,vercel,netlify,heroku,nextjs,react,tailwindcss,bootstrap,php,js,nodejs,markdown,discord&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vercel,netlify,heroku,nextjs,react,tailwindcss,bootstrap,php,js,nodejs,markdown,discord&perline=7)](https://skillicons.dev)
 
 ### Currently learning (2022):
 * [ ] Python
