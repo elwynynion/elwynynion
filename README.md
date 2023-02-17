@@ -5,6 +5,9 @@
 **Programming Language:** SQL, CSS, JavaScript, HTML, PHP, Python <br/>
 **Framework & Libraries:** NextJS
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=elwynynion&border_radius=17)](https://git.io/streak-stats)
+
 ----------
 <a href="https://github.com/elwynynion/" >
   <img src="https://spotify-badge-elwyn.vercel.app/api/now-playing.svg" />
