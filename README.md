@@ -6,7 +6,7 @@
 **Framework & Libraries:** NextJS
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=elwynynion&border_radius=17)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elwynynion&border_radius=17)](https://github.com/elwynynion)
 
 ----------
 <a href="https://github.com/elwynynion/" >
