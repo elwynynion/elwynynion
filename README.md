@@ -15,7 +15,3 @@ Among the technologies that I use the most are:
 - SQL Database: MySQL
 
 I have also used other technologies such as: Flutter & Python
-
-<a href="https://github.com/elwynynion/" >
-  <img src="https://spotify-badge-elwyn.vercel.app/api/now-playing.svg" />
-</a>
