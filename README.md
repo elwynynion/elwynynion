@@ -14,7 +14,3 @@ I'm Elwyn - I'm a Full-stack developer, designer, and a Computer Science student
 [![Tools](https://skillicons.dev/icons?i=figma,firebase,mysql,supabase,mongodb,postman,vercel,bash,git,github,windows)](https://skillicons.dev)
 
 <img src="https://streak-stats.demolab.com?user=elwynynion&border_radius=17" />
-
-<a href="https://github.com/elwynynion/" >
-  <img src="https://spotify-badge-elwyn.vercel.app/api/now-playing.svg" />
-</a>
